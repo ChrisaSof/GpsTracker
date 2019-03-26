@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "533703802531",
+    "firebase_url": "https://gpstracker-1528101724844.firebaseio.com",
+    "project_id": "gpstracker-1528101724844",
+    "storage_bucket": "gpstracker-1528101724844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533703802531:android:7139927c8d36617b",
+        "android_client_info": {
+          "package_name": "com.example.chrissa.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533703802531-7r4ste7sbulipn2j38g8sco813c43ki6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "533703802531-7r4ste7sbulipn2j38g8sco813c43ki6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5SX2p7l9zhcUcXOypY6AIa4CfMUSSb8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
